@@ -30,9 +30,18 @@ NB: The ENA upload of the genomes also includes the raw PacBio HiFi data
 --------------------------------
 ### Access to the genome annotations:
 
-The genome annotations were performed using BRAKER3, using RNAseq data from ovary and larval tissues and the OrthoDb Vertebrata partition of protein sequences.
+Annotation was performed on the female genome using BRAKER3 (https://github.com/Gaius-Augustus/BRAKER), using RNAseq data from ovary and larval tissues and the OrthoDb Vertebrata partition of protein sequences.
+This annotation can be found in the folder `female-braker3-annotation`, which includes the following (compressed) files:
 
-Annotations can be found in the folders 'male genome annotation' and 'female genome annotation' and include the following files:
+* Gff3 file
+* Protein fasta file
+* Longest isoform per protein fasta file
+* CDS fasta file
+* Functional annotation: Eggnog2 emapper tsv file
+* Functional annotation: InterProScan tsv file 
+
+We also performed an annotation of the male genome using GALBA (https://github.com/Gaius-Augustus/GALBA), using the protein sequences of XYZ. 
+This annotation can be found in the folder `male-GALBA-annotation`, which includes the following (compressed) files:
 
 - raw GALBA gene prediction output (CDS, protein + GTF)
 - filtered GALBA gene prediction output (protein, GTF + GFF)
