@@ -1,5 +1,7 @@
 # Genome assembly and annotation of the white perch (_Morone americana_)
 
+#### This GitHub repo has been archived with Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14772922.svg)](https://doi.org/10.5281/zenodo.14772922)
+
 This GitHub repository contains additional information and the genome annotation related to the article:
 
 ### Two genomes of the white perch (_Morone americana_), an ecologically important teleost
