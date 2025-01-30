@@ -23,7 +23,6 @@ Josephine R. Paris 1, Megan Criss 2, Jessica Walsh 2, Joan Ferrer Obiol 3, Chris
 * The female white perch (_Morone americana_) assembly can be found under the genome accession number GCA_965119275.
 * The male white perch (_Morone americana_) assembly can be found under the genome accession number GCA_965119265.
 * The female mitochondrial sequence is available on NCBI GenBank under the accession number XXX. This is contig M_amer_fem_259 in the accessioned assembly on ENA.
-* The male mitochondrial sequence is available on NCBI GenBank under the accession number XXX.
 
 NB: The ENA upload of the genomes also includes the raw PacBio HiFi data
 
