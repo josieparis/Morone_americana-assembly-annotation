@@ -39,10 +39,3 @@ This annotation can be found in the folder `female-braker3-annotation`, which in
 * CDS fasta file
 * Functional annotation: Eggnog2 emapper tsv file
 * Functional annotation: InterProScan tsv file 
-
-We also performed an annotation of the male genome using GALBA (https://github.com/Gaius-Augustus/GALBA), using the protein sequences of XYZ. 
-This annotation can be found in the folder `male-GALBA-annotation`, which includes the following (compressed) files:
-
-- raw GALBA gene prediction output (CDS, protein + GTF)
-- filtered GALBA gene prediction output (protein, GTF + GFF)
-- emapper functional annotation results (XLS, TSV + GTF)
